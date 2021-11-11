@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/MichalKmi/cypress-testing-learning/issues"
   },
-  "homepage": "https://github.com/MichalKmi/cypress-testing-learning#readme"
+  "homepage": "https://github.com/MichalKmi/cypress-testing-learning#readme",
+  "dependencies": {
+    "cypress": "^9.0.0"
+  }
 }
