@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/MichalKmi/cypress-testing-learning#readme",
   "dependencies": {
-    "cypress": "^9.0.0"
+    "cypress": "^9.0.0",
+    "prettier": "^2.4.1"
   }
 }
