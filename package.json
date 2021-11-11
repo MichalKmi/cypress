@@ -1,0 +1,23 @@
+{
+  "name": "cypress-testing-project",
+  "version": "1.0.0",
+  "description": "Automated test with cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichalKmi/cypress-testing-learning.git"
+  },
+  "keywords": [
+    "cypress",
+    "mk"
+  ],
+  "author": "Michal Kmiecik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MichalKmi/cypress-testing-learning/issues"
+  },
+  "homepage": "https://github.com/MichalKmi/cypress-testing-learning#readme"
+}
