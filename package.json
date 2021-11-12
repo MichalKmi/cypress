@@ -4,7 +4,7 @@
   "description": "Automated test with cypress",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "cy:run": "npx cypress run --headed --no-exit --browser chrome --spec cypress/integration/1-getting-started/todo.spec.js"
   },
   "repository": {
     "type": "git",
