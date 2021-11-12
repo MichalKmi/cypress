@@ -57,7 +57,16 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-TBD
+Run the simple command to start:
+
+```sh
+npm run cy:run
+```
+
+or use more specified CL command as for example:
+```sh
+npx cypress run --headed --no-exit --browser chrome --spec cypress/integration/1-getting-started/todo.spec.js
+```
 
 ### Prerequisites
 
